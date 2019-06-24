@@ -1,0 +1,116 @@
+2019-06-14 20:51:57 INFO  CarDealershipLogger:220 - something
+2019-06-14 21:05:23 FATAL CarDealershipLogger:32 - oracle.jdbc.driver.OracleDriver
+2019-06-14 21:09:16 FATAL CarDealershipLogger:32 - oracle.jdbc.driver.OracleDriver
+2019-06-14 21:13:46 FATAL CarDealershipLogger:32 - oracle.jdbc.driver.OracleDriver
+2019-06-14 21:14:40 FATAL CarDealershipLogger:32 - oracle.jdbc.driver.OracleDriver
+2019-06-14 21:16:39 FATAL CarDealershipLogger:32 - oracle.jdbc.driver.OracleDriver
+2019-06-14 21:17:19 FATAL CarDealershipLogger:32 - oracle.jdbc.driver.OracleDriver
+2019-06-14 21:20:55 FATAL CarDealershipLogger:32 - oracle.jdbc.driver.OracleDriver
+2019-06-14 22:13:02 FATAL CarDealershipLogger:32 - oracle.jdbc.driver.OracleDriver
+2019-06-15 18:57:33 WARN  CarDealershipLogger:35 - Invalid operation for forward only resultset : first
+2019-06-15 18:57:46 WARN  CarDealershipLogger:35 - Invalid operation for forward only resultset : first
+2019-06-15 19:54:34 WARN  CarDealershipLogger:35 - Invalid operation for forward only resultset : first
+2019-06-15 19:55:17 WARN  CarDealershipLogger:35 - Invalid operation for forward only resultset : first
+2019-06-15 19:55:22 WARN  CarDealershipLogger:35 - Invalid operation for forward only resultset : first
+2019-06-15 20:26:29 WARN  CarDealershipLogger:45 - message
+2019-06-15 20:31:02 WARN  CarDealershipLogger:45 - cs
+2019-06-15 20:53:01 WARN  CarDealershipLogger:24 - anonymous
+2019-06-15 20:55:32 WARN  CarDealershipLogger:29 - oracle.jdbc.driver.OraclePreparedStatementWrapper@6e171cd7
+2019-06-16 11:01:31 WARN  CarDealershipLogger:33 - Invalid column index
+2019-06-16 11:01:57 WARN  CarDealershipLogger:27 - oracle.jdbc.driver.OraclePreparedStatementWrapper@1ab3a8c8
+2019-06-16 11:05:12 WARN  CarDealershipLogger:27 - oracle.jdbc.driver.OraclePreparedStatementWrapper@20deea7f
+2019-06-16 11:07:54 WARN  CarDealershipLogger:32 - Invalid column index
+2019-06-16 11:08:06 WARN  CarDealershipLogger:32 - Invalid column index
+2019-06-16 11:12:18 WARN  CarDealershipLogger:85 - ORA-01002: fetch out of sequence
+
+2019-06-16 11:12:18 WARN  CarDealershipLogger:85 - ORA-01002: fetch out of sequence
+
+2019-06-16 11:12:19 WARN  CarDealershipLogger:51 - ORA-00001: unique constraint (MATT.SYS_C005135) violated
+ORA-06512: at "MATT.ADD_USER", line 4
+
+2019-06-16 11:12:45 WARN  CarDealershipLogger:85 - ORA-01002: fetch out of sequence
+
+2019-06-16 11:12:45 WARN  CarDealershipLogger:85 - ORA-01002: fetch out of sequence
+
+2019-06-16 11:12:46 WARN  CarDealershipLogger:51 - ORA-00001: unique constraint (MATT.SYS_C005135) violated
+ORA-06512: at "MATT.ADD_USER", line 4
+
+2019-06-16 11:16:54 WARN  CarDealershipLogger:33 - Invalid column index
+2019-06-16 11:23:43 WARN  CarDealershipLogger:23 - anonymous
+2019-06-16 11:23:43 WARN  CarDealershipLogger:24 - password
+2019-06-16 11:24:54 WARN  CarDealershipLogger:23 - anonymous
+2019-06-16 11:24:54 WARN  CarDealershipLogger:24 - password
+2019-06-16 11:30:05 WARN  CarDealershipLogger:51 - ORA-00001: unique constraint (MATT.SYS_C005135) violated
+ORA-06512: at "MATT.ADD_USER", line 4
+
+2019-06-16 11:44:24 WARN  CarDealershipLogger:51 - ORA-00001: unique constraint (MATT.SYS_C005135) violated
+ORA-06512: at "MATT.ADD_USER", line 4
+
+2019-06-16 12:00:42 WARN  CarDealershipLogger:51 - ORA-00001: unique constraint (MATT.SYS_C005135) violated
+ORA-06512: at "MATT.ADD_USER", line 4
+
+2019-06-16 12:17:03 WARN  CarDealershipLogger:51 - Cannot perform fetch on a PLSQL statement: next
+2019-06-16 12:21:31 WARN  CarDealershipLogger:85 - ORA-01002: fetch out of sequence
+
+2019-06-16 12:24:11 WARN  CarDealershipLogger:42 - here
+2019-06-16 12:24:11 WARN  CarDealershipLogger:51 - Invalid operation for forward only resultset : first
+2019-06-16 12:29:53 WARN  CarDealershipLogger:83 - ORA-01002: fetch out of sequence
+
+2019-06-16 12:30:06 WARN  CarDealershipLogger:83 - ORA-01002: fetch out of sequence
+
+2019-06-16 12:30:06 WARN  CarDealershipLogger:83 - ORA-01002: fetch out of sequence
+
+2019-06-16 12:30:47 WARN  CarDealershipLogger:83 - ORA-01002: fetch out of sequence
+
+2019-06-16 12:43:51 WARN  CarDealershipLogger:108 - ORA-02291: integrity constraint (MATT.FK_OFRS_CARS) violated - parent key not found
+ORA-06512: at "MATT.ADD_OFFER", line 4
+
+2019-06-16 13:28:23 WARN  CarDealershipLogger:44 - [com.proj0.models.Car@498d318c, com.proj0.models.Car@6e171cd7, com.proj0.models.Car@402bba4f]
+2019-06-16 13:29:37 WARN  CarDealershipLogger:44 - [{ cid='41', model='hephaestus', year='2011', price='7500.0', uid='40', location='lot'}, { cid='42', model='aphrodite', year='2003', price='3200.0', uid='1', location='lot'}, { cid='44', model='penelope', year='2004', price='3500.0', uid='1', location='lot'}]
+2019-06-16 14:40:12 WARN  CarDealershipLogger:29 - ORA-02292: integrity constraint (MATT.FK_OFRS_CARS) violated - child record found
+
+2019-06-16 15:44:57 WARN  CarDealershipLogger:80 - { oid='64', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}
+2019-06-16 16:05:04 WARN  CarDealershipLogger:118 - Invalid column name
+2019-06-16 17:54:39 WARN  CarDealershipLogger:87 - []
+2019-06-16 17:54:59 WARN  CarDealershipLogger:87 - []
+2019-06-16 17:55:23 WARN  CarDealershipLogger:87 - [{ pid='57', amountPaid='300.0', monthsLeft='11', cid='43', uid='28'}, { pid='58', amountPaid='300.0', monthsLeft='10', cid='43', uid='28'}, { pid='59', amountPaid='300.0', monthsLeft='9', cid='43', uid='28'}, { pid='60', amountPaid='300.0', monthsLeft='32', cid='50', uid='49'}, { pid='61', amountPaid='300.0', monthsLeft='31', cid='50', uid='49'}]
+2019-06-16 17:59:24 WARN  CarDealershipLogger:87 - [{ pid='57', amountPaid='300.0', monthsLeft='11', cid='43', uid='28'}, { pid='58', amountPaid='300.0', monthsLeft='10', cid='43', uid='28'}, { pid='59', amountPaid='300.0', monthsLeft='9', cid='43', uid='28'}, { pid='60', amountPaid='300.0', monthsLeft='32', cid='50', uid='49'}, { pid='61', amountPaid='300.0', monthsLeft='31', cid='50', uid='49'}]
+2019-06-16 18:04:05 WARN  CarDealershipLogger:196 - [{ oid='63', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='64', amount='100.0', monthsOffered='30', status='accepted', uid='28', cid='44'}, { oid='65', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='66', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='67', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='68', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}]
+2019-06-16 18:07:09 WARN  CarDealershipLogger:196 - [{ oid='63', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='64', amount='100.0', monthsOffered='30', status='accepted', uid='28', cid='44'}, { oid='65', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='66', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='67', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='68', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}]
+2019-06-16 18:08:31 WARN  CarDealershipLogger:196 - [{ oid='63', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='64', amount='100.0', monthsOffered='30', status='accepted', uid='28', cid='44'}, { oid='65', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='66', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='67', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='68', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}]
+2019-06-16 18:10:50 WARN  CarDealershipLogger:196 - [{ oid='63', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='64', amount='100.0', monthsOffered='30', status='accepted', uid='28', cid='44'}, { oid='65', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='66', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='67', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='68', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}]
+2019-06-16 18:12:07 WARN  CarDealershipLogger:196 - [{ oid='63', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='64', amount='100.0', monthsOffered='30', status='accepted', uid='28', cid='44'}, { oid='65', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='66', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='67', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='68', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}]
+2019-06-16 18:21:07 WARN  CarDealershipLogger:75 - [{ oid='63', amount='100.0', monthsOffered='30', status='unaccepted', uid='28', cid='44'}, { oid='64', amount='100.0', monthsOffered='30', status='accepted', uid='28', cid='44'}, { oid='65', amount='100.0', monthsOffered='30', status='unaccepted', uid='28', cid='44'}, { oid='66', amount='100.0', monthsOffered='30', status='unaccepted', uid='28', cid='44'}, { oid='67', amount='100.0', monthsOffered='30', status='unaccepted', uid='28', cid='44'}, { oid='68', amount='100.0', monthsOffered='30', status='unaccepted', uid='28', cid='44'}]
+2019-06-16 18:21:08 WARN  CarDealershipLogger:76 - [{ oid='63', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='64', amount='100.0', monthsOffered='30', status='accepted', uid='28', cid='44'}, { oid='65', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='66', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='67', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}, { oid='68', amount='100.0', monthsOffered='30', status='unevaluated', uid='28', cid='44'}]
+2019-06-16 20:24:58 WARN  CarDealershipLogger:109 - ORA-02291: integrity constraint (MATT.FK_OFRS_USRS) violated - parent key not found
+ORA-06512: at "MATT.ADD_OFFER", line 4
+
+2019-06-16 20:38:30 WARN  CarDealershipLogger:109 - ORA-02291: integrity constraint (MATT.FK_OFRS_USRS) violated - parent key not found
+ORA-06512: at "MATT.ADD_OFFER", line 4
+
+2019-06-16 20:39:10 WARN  CarDealershipLogger:109 - ORA-02291: integrity constraint (MATT.FK_OFRS_USRS) violated - parent key not found
+ORA-06512: at "MATT.ADD_OFFER", line 4
+
+2019-06-16 20:44:43 WARN  CarDealershipLogger:109 - ORA-02291: integrity constraint (MATT.FK_OFRS_USRS) violated - parent key not found
+ORA-06512: at "MATT.ADD_OFFER", line 4
+
+2019-06-16 21:15:48 WARN  CarDealershipLogger:83 - ORA-01002: fetch out of sequence
+
+2019-06-16 22:08:45 WARN  CarDealershipLogger:37 - [{ pid='4', amountPaid='300.0', monthsLeft='32', cid='5', uid='3'}, { pid='5', amountPaid='300.0', monthsLeft='31', cid='5', uid='3'}]
+2019-06-17 08:39:18 WARN  CarDealershipLogger:112 - ORA-00904: "MONTHS_OFFERED": invalid identifier
+
+2019-06-17 08:39:59 WARN  CarDealershipLogger:112 - ResultSet.next was not called
+2019-06-17 08:41:01 WARN  CarDealershipLogger:110 - 31
+2019-06-17 08:41:50 WARN  CarDealershipLogger:114 - ORA-00904: "AMOUNT": invalid identifier
+
+2019-06-17 08:42:12 WARN  CarDealershipLogger:114 - ORA-00904: "AMOUNT": invalid identifier
+
+2019-06-17 08:42:26 WARN  CarDealershipLogger:114 - ORA-00937: not a single-group group function
+
+2019-06-17 08:44:04 WARN  CarDealershipLogger:114 - ORA-00979: not a GROUP BY expression
+
+2019-06-17 13:00:32 WARN  CarDealershipLogger:49 - ORA-06575: Package or function ADD_USER is in an invalid state
+
+2019-06-17 17:13:18 WARN  CarDealershipLogger:257 - 
+2019-06-18 21:16:43 WARN  CarDealershipLogger:85 - ORA-02292: integrity constraint (MATT.FK_CARS_USRS) violated - child record found
+
